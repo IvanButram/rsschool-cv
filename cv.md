@@ -22,5 +22,5 @@ def count_positives_sum_negatives(arr):
 
 I studied only on my own
 
-Level of English--A1
+Level of English--A1 
     
